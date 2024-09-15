@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fady Karmy</h1>
-<h3 align="center">Computer Science Student | interested in machine learning & healthcare informatics</h3>
+<h3 align="center">AI Trainee @Samsung Innovation Campus | Machine Learning & Healthcare Informatics | Interested in Competitive Programming</h3>
 
 - 🌱 I’m currently learning **Mathematics for machine learning and data science and python libraries**
 
